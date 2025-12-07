@@ -11,7 +11,6 @@ function run_cmd() {
     eval "$CMD"
 }
 
-# --- PHAN 0: HEADER THONG TIN NHOM ---
 clear
 echo -e "${GREEN}+---------------------------------------------------+"
 echo -e "| PROJECT DISTRIBUTED SYSTEM 2025-2026 NHOM XX      |"
@@ -21,7 +20,7 @@ echo -e "| HUYNH MINH DAT                                    |"
 echo -e "+---------------------------------------------------+${NC}"
 echo ""
 echo "..."
-echo "[Nhan Enter de bat dau]"
+echo "[Enter]"
 read
 
 echo "-----------------------------------------------------"
